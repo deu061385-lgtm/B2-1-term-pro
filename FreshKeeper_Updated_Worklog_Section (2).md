@@ -44,8 +44,8 @@ FreshKeeper는 **냉장고 속 식재료를 관리하고, 유통기한 임박 �
 ### Step 1. Gemini 초안 생성
 
 **결과 파일:** `gemini-초안(1).png`
+<img width="600" height="1100" alt="gemini- 초안(1)" src="https://github.com/user-attachments/assets/09960e77-02ba-4ab7-b303-ec9fec941d7a" />
 
-![gemini-초안(1)](<./images/gemini-초안(1).png>)
 
 #### 사용 프롬프트
 ```text
