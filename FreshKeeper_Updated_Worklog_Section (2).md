@@ -146,8 +146,9 @@ Apple Human Interface Guidelines를 참고한 프리미엄 UI 디자인
 ### Step 2. 동일 프롬프트를 ChatGPT에 적용하여 다화면 구조 정리
 
 **결과 파일:** `content.png`
+<img width="1024" height="1024" alt="content" src="https://github.com/user-attachments/assets/efec769b-6b59-470d-9525-973cd8e6aeda" />
 
-![content](<./images/content.png>)
+
 
 #### 사용 방식
 Gemini에서 사용한 동일 프롬프트를 ChatGPT 이미지 생성에 다시 입력하였다.  
@@ -174,8 +175,8 @@ Gemini에서 사용한 동일 프롬프트를 ChatGPT 이미지 생성에 다시
 ### Step 3. 가로 스와이프 구조가 남아 있는 레시피 화면 확인
 
 **결과 파일:** `가로 스와이프(2).png`
+<img width="1024" height="1024" alt="가로 스와이프(2)" src="https://github.com/user-attachments/assets/04f2b90e-c530-4950-b939-53fedf3d9b02" />
 
-![가로 스와이프(2)](<./images/가로 스와이프(2).png>)
 
 #### 작업 의도
 `content.png`를 기준으로 레시피 화면을 확인했을 때, 추천 카드가 가로 스와이프 형태로 배치되어 있었다.  
@@ -195,8 +196,9 @@ Gemini에서 사용한 동일 프롬프트를 ChatGPT 이미지 생성에 다시
 ### Step 4. 가로 스와이프 제거 및 세로 스크롤 구조로 변경
 
 **결과 파일:** `가로 스와이프 제거(3).png`
+<img width="1254" height="1254" alt="가로 스와이프 제거(3)" src="https://github.com/user-attachments/assets/48263cab-735e-411f-8ef5-727d734d64dd" />
 
-![가로 스와이프 제거(3)](<./images/가로 스와이프 제거(3).png>)
+
 
 #### 사용 프롬프트
 ```text
@@ -223,8 +225,9 @@ Gemini에서 사용한 동일 프롬프트를 ChatGPT 이미지 생성에 다시
 ### Step 5. AI 추천 레시피 클릭 시 상세 가이드 화면 추가
 
 **결과 파일:** `상세 레시피 추가(4).png`
+<img width="885" height="1777" alt="상세 레시피 추가(4)" src="https://github.com/user-attachments/assets/61fa4648-012d-436e-96db-4a064e8616f5" />
 
-![상세 레시피 추가(4)](<./images/상세 레시피 추가(4).png>)
+
 
 #### 사용 프롬프트
 ```text
@@ -256,8 +259,9 @@ FreshKeeper의 핵심 차별점은 단순히 “유통기한이 임박한 식재
 ### Step 6. 첫 번째 프로토타입 시안 (초기 버전)
 
 **결과 파일:** `못난이버전(5).png`
+<img width="1202" height="331" alt="못난이버전(5)" src="https://github.com/user-attachments/assets/3c739492-deb9-48ec-b62c-780aeebc328e" />
 
-![못난이버전(5)](<./images/못난이버전(5).png>)
+
 
 #### 사용 프롬프트
 ```text
@@ -292,8 +296,9 @@ FreshKeeper의 핵심 차별점은 단순히 “유통기한이 임박한 식재
 ### Step 7. 프로토타입 디자인 보정 (개선 버전)
 
 **결과 파일:** `못난이v2(6).png`
+<img width="796" height="211" alt="못난이v2(6)" src="https://github.com/user-attachments/assets/277e2760-2d84-4f35-b79c-8affbd1fe296" />
 
-![못난이v2(6)](<./images/못난이v2(6).png>)
+
 
 #### 사용 프롬프트 1 — 디자인 시스템 보정
 ```text
@@ -397,8 +402,9 @@ FreshKeeper 프로젝트의 프로토타입 제작 목표는 다음과 같았다
 ### 10.3 프로토타입 수정 전 이미지
 
 **수정 전 이미지:** `못난이버전(5).png`
+<img width="1202" height="331" alt="못난이버전(5)" src="https://github.com/user-attachments/assets/4c57b695-66fb-42df-9218-0e55246e759d" />
 
-![못난이버전(5)-before](<./images/못난이버전(5).png>)
+
 
 #### 수정 전 문제점 정리
 - 카드, 사진, 텍스트 스타일의 통일성이 약함
@@ -412,7 +418,8 @@ FreshKeeper 프로젝트의 프로토타입 제작 목표는 다음과 같았다
 
 **수정 후 이미지:** `못난이v2(6).png`
 
-![못난이v2(6)-after](<./images/못난이v2(6).png>)
+<img width="796" height="211" alt="못난이v2(6)" src="https://github.com/user-attachments/assets/3ac1204e-d486-4e1e-a35c-78568f80f4c4" />
+
 
 #### 수정 후 반영 내용
 - Modern iOS 18 스타일에 맞춰 전체 디자인 시스템 재정리
