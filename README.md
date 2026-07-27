@@ -109,7 +109,7 @@ Figma Make로 6개 화면을 연결하고 클릭 가능한 Hotspot을 지정한 
 
 | 파일 | 내용 |
 |---|---|
-| [freshkeeper 초안_output.pdf](log/freshkeeper%20%EC%B4%88%EC%95%88_output.pdf) | 초안 프롬프트, 생성 결과, 수정 과정 기록 |
+| [FreshKeeper_Updated_Worklog_Section (2).md](log/freshkeeper%20%EC%B4%88%EC%95%88_output.pdf) | 초안 프롬프트, 생성 결과, 수정 과정 기록 |
 
 ### 프롬프트 수정 요약
 
